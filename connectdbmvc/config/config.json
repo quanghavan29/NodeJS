@@ -3,7 +3,7 @@
         "host"     : "localhost",
         "user"     : "root",
         "password" : "123",
-        "database" : "student",
+        "database" : "nodejs",
         "port" : "3306",
         "connectionLimit" : 100
     }
